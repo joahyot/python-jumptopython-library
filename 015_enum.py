@@ -53,3 +53,8 @@ def get_menu(input_date):
 print(get_menu(date(2020, 6, 4)))
 print(get_menu(date(2023, 1 ,17)))
 
+print(Week.MONDAY.name)
+print(Week.MONDAY.value)
+
+for week in Week:
+    print("{}:{}".format(week.name, week.value))
