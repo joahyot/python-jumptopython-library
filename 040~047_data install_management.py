@@ -1,4 +1,4 @@
-# 040~047_data install_management.py
+# 040~047_data install and management.py
 # 데이터 저장하고 관리하기 
 
 # 044_객체를 파일로 저장하고 불러오려면? -- pickle
