@@ -1,6 +1,6 @@
 #009_collections.namedtuple.py
 #tuple()은 인덱스를 통해서만 접근 가능하지만 namedtuple()은 키로도 데이터에 접근할 수 있는 자료형
-
+# 수정파일
 
 from collections import namedtuple
 
